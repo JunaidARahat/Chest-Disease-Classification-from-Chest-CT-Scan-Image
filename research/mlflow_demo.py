@@ -74,7 +74,9 @@ if __name__ == "__main__":
         mlflow.log_metric("r2", r2)
         mlflow.log_metric("mae", mae)
 
-        
+         # For remote server only (Dagshub)
+        remote_server_uri = "https://dagshub.com/JunaidARahat/MLFLOW-Demo-Experiement.mlflow"
+        mlflow.set_tracking_uri(remote_server_uri)
        
 
 
