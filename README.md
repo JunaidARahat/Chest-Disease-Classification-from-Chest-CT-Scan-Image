@@ -44,3 +44,14 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
+# MLFLOW Dags Hub Connection URI
+
+```bash
+ 
+https://dagshub.com/JunaidARahat/MLFLOW-Demo-Experiement.mlflow
+MLFLOW_TRACKING_USERNAME=JunaidARahat \
+MLFLOW_TRACKING_PASSWORD=ae3ac0903c1cf1d1779e5037cb9b17f98f664ebb  \
+python script.py
+
+```
