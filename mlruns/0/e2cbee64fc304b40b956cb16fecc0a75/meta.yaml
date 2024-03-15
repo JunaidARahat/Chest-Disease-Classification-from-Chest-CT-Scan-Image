@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest%20disease%20classification%202024/Chest-Disease-Classification-from-Chest-CT-Scan-Image/mlruns/0/e2cbee64fc304b40b956cb16fecc0a75/artifacts
+end_time: 1710501256998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2cbee64fc304b40b956cb16fecc0a75
+run_name: loud-panda-699
+run_uuid: e2cbee64fc304b40b956cb16fecc0a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710501244480
+status: 3
+tags: []
+user_id: junaid
