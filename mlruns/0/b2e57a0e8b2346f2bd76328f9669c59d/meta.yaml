@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest%20disease%20classification%202024/Chest-Disease/mlruns/0/b2e57a0e8b2346f2bd76328f9669c59d/artifacts
+end_time: 1711016409373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2e57a0e8b2346f2bd76328f9669c59d
+run_name: shivering-gull-393
+run_uuid: b2e57a0e8b2346f2bd76328f9669c59d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711016390766
+status: 3
+tags: []
+user_id: junaid
